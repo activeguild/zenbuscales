@@ -1,0 +1,20 @@
+{
+  "name": "zenbuscale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gltf-pipeline": "^4.1.0"
+  },
+  "dependencies": {
+    "@gltf-transform/core": "^4.0.8",
+    "@gltf-transform/extensions": "^4.0.8",
+    "@gltf-transform/functions": "^4.0.8",
+    "gl-matrix": "^3.4.3"
+  }
+}
